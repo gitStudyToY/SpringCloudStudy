@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="api-gateway" />
+        <module name="api-gateway-dynamic-filter" />
+        <module name="api-gateway-dynamic-route" />
+        <module name="api-gateway-zuul-fallback" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="feign-consumer" />
+        <module name="hello-service-api" />
+        <module name="Hystrix-dashboard" />
+        <module name="hystrix-dashboard-turbine" />
+        <module name="rabbitmq-hello" />
+        <module name="ribbon-consumer" />
+        <module name="spring-boot-admin-server-ui-turbine" />
+        <module name="spring-boot-hello" />
+        <module name="spring-boot-mail" />
+        <module name="stream-client-hello" />
+        <module name="stream-hello" />
+        <module name="trace-1" />
+        <module name="trace-2" />
+        <module name="trace-zipkin-1" />
+        <module name="trace-zipkin-1 (1)" />
+        <module name="trace-zipkin-2" />
+        <module name="turbine" />
+        <module name="turbine-amqp" />
+        <module name="zipkin-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="api-gateway-dynamic-filter" target="1.8" />
+      <module name="api-gateway-dynamic-route" target="1.8" />
+      <module name="api-gateway-zuul-fallback" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="feign-consumer" target="1.8" />
+      <module name="hello-service-api" target="1.8" />
+      <module name="Hystrix-dashboard" target="1.8" />
+      <module name="hystrix-dashboard-turbine" target="1.8" />
+      <module name="rabbitmq-hello" target="1.8" />
+      <module name="ribbon-consumer" target="1.8" />
+      <module name="spring-boot-admin-server-ui-turbine" target="1.8" />
+      <module name="spring-boot-hello" target="1.8" />
+      <module name="spring-boot-mail" target="1.8" />
+      <module name="stream-client-hello" target="1.8" />
+      <module name="stream-hello" target="1.8" />
+      <module name="trace-1" target="1.8" />
+      <module name="trace-2" target="1.8" />
+      <module name="trace-zipkin-1" target="1.8" />
+      <module name="trace-zipkin-1 (1)" target="1.8" />
+      <module name="trace-zipkin-2" target="1.8" />
+      <module name="turbine" target="1.8" />
+      <module name="turbine-amqp" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
