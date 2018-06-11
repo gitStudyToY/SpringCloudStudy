@@ -31,6 +31,8 @@
         <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
         <option value="$PROJECT_DIR$/trace-zipkin-1/pom.xml" />
         <option value="$PROJECT_DIR$/trace-zipkin-2/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-integration-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-rxJava/pom.xml" />
       </list>
     </option>
   </component>

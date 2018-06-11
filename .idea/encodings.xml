@@ -19,6 +19,8 @@
     <file url="file://$PROJECT_DIR$/spring-boot-mail" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stream-client-hello" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/stream-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-integration-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-rxJava" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/trace-1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/trace-2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/trace-zipkin-1" charset="UTF-8" />

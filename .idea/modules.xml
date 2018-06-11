@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream-client-hello/stream-client-hello.iml" filepath="$PROJECT_DIR$/stream-client-hello/stream-client-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream-hello/stream-hello.iml" filepath="$PROJECT_DIR$/stream-hello/stream-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-integration-hello/stream-integration-hello.iml" filepath="$PROJECT_DIR$/stream-integration-hello/stream-integration-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-rxJava/stream-rxJava.iml" filepath="$PROJECT_DIR$/stream-rxJava/stream-rxJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/trace-1/trace-1.iml" filepath="$PROJECT_DIR$/trace-1/trace-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/trace-2/trace-2.iml" filepath="$PROJECT_DIR$/trace-2/trace-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/trace-zipkin-1/trace-zipkin-1.iml" filepath="$PROJECT_DIR$/trace-zipkin-1/trace-zipkin-1.iml" />
