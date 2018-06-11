@@ -11,7 +11,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableBinding(SendProcessor.class)
 public class App1 {
 
-
     private static final Logger log = LoggerFactory.getLogger(App1.class);
 
     @ServiceActivator(inputChannel = SendProcessor.INPUT,outputChannel = SendProcessor.OUTPUT)
